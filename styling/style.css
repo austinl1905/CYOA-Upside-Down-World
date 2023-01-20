@@ -26,3 +26,12 @@ a p {
 a p:hover {
     font-size: 20px;
 }
+
+.image {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+}
