@@ -6,3 +6,5 @@ You woke up in a world where everything is upside down
 Credits:
 #### [Austin Liu](https://github.com/austinl1905)
 #### [Junhua Lai](https://github.com/junhual8136)
+
+In every situation there is a cat picture
